@@ -1,3 +1,3 @@
-Project of a mechanical-clock
+# Project of a mechanical-clock
 
 
